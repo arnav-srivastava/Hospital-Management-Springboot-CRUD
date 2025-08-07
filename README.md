@@ -2,6 +2,11 @@
 
 A full-stack web application for managing hospital operations. The backend is built with Spring Boot, providing a RESTful API for CRUD (Create, Read, Update, Delete) operations, and the frontend provides the user interface to interact with the system.
 
+
+## 🖼️ Project Screenshot
+
+![Dashboard Preview](./assets/patientUI.png)
+
 ## ✨ Features
 
 - **Patient Management:** Add new patients, view their details, update records, and remove them.
@@ -29,3 +34,4 @@ This project is built with the following technologies:
 The project is organized as a monorepo with the backend and frontend code in separate directories.
 
 Created by Arnav Srivastava
+
