@@ -5,7 +5,7 @@ A full-stack web application for managing hospital operations. The backend is bu
 
 ## 🖼️ Project Screenshot
 
-![Dashboard Preview](./assets/patientUI.png)
+![Dashboard Preview](./hospital-frontend/src/assets/patientUI.png)
 
 ## ✨ Features
 
@@ -34,4 +34,5 @@ This project is built with the following technologies:
 The project is organized as a monorepo with the backend and frontend code in separate directories.
 
 Created by Arnav Srivastava
+
 
