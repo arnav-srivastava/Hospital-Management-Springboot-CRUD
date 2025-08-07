@@ -10,6 +10,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/v1/bills")
+@CrossOrigin(origins = "http://localhost:3000")
 public class BillController {
 
     @Autowired
