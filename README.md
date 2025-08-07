@@ -6,7 +6,9 @@ A full-stack web application for managing hospital operations. The backend is bu
 ## 🖼️ Project Screenshot
 
 ![Dashboard Preview](./hospital-frontend/src/assets/patientUI.png)
-
+![Dashboard Preview](./hospital-frontend/src/assets/doctorUI.png)
+![Dashboard Preview](./hospital-frontend/src/assets/login.png)
+![Dashboard Preview](./hospital-frontend/src/assets/signup.png)
 ## ✨ Features
 
 - **Patient Management:** Add new patients, view their details, update records, and remove them.
@@ -34,5 +36,6 @@ This project is built with the following technologies:
 The project is organized as a monorepo with the backend and frontend code in separate directories.
 
 Created by Arnav Srivastava
+
 
 
